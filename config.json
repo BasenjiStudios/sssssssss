@@ -20,7 +20,7 @@
     "i": "ok"
   },
   "maxaccept":900000,
-  "security_check":true,
+  "security_check":false,
   "ignore_rap":false,
   "dontcheckoutbound": true,
   "rapboost": 0.9,
